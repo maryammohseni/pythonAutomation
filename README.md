@@ -1,2 +1,2 @@
 # pythonAutomation
-pythonAutomation-AWS
+pythonAutomation-AWS-toturial
